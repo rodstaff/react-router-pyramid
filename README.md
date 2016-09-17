@@ -2,9 +2,10 @@
 
 There are two branches here:  "master" and "pyramid"
 
-#####  This is the "pyramid" branch.
+###  This is the "pyramid" branch.  This combines 'react-router' app
+with 'reduxpyramid' app/
 
-#####  NOTE:  This branch will add Redux !!!
+###  Successfully combined React Routing w/ Redux !!! ###
 
 There are two remote repositories, one for each branch:
 
