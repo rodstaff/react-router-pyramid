@@ -26,7 +26,7 @@ export const Home = () => (
 export const Address = () => (
   <div>
     <br />
-    <Root store={store} />
+    <Root />
   </div>
 )
 export const About = (props) => (
